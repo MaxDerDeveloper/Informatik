@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=PERSONEN
+comment1.params=laengeE\ anzahlE
+comment1.target=PERSONEN(double,\ int)
+comment2.params=
+comment2.target=void\ datenAusgeben()
+comment3.params=
+comment3.target=int\ gibAnzahl()
+numComments=4

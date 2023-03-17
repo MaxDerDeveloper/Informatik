@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=GUETER
+comment1.params=laengeE
+comment1.target=GUETER(double)
+comment2.params=
+comment2.target=void\ datenAusgeben()
+comment3.params=
+comment3.target=int\ gibAnzahl()
+numComments=4

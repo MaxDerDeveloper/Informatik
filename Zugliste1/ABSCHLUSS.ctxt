@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=ABSCHLUSS
+comment1.params=
+comment1.target=ABSCHLUSS()
+comment2.params=inhaltE
+comment2.target=LISTENELEMENT\ einfuegen(DATEN)
+comment3.params=
+comment3.target=void\ datenAusgeben()
+comment4.params=
+comment4.target=int\ anzahlKnoten()
+comment5.params=
+comment5.target=int\ summeZahlen()
+comment6.params=
+comment6.target=DATEN\ inhaltGeben()
+comment7.params=
+comment7.target=LISTENELEMENT\ naechsterGeben()
+comment8.params=
+comment8.target=DATEN\ entfernen()
+comment9.params=
+comment9.target=int\ anzahlPersonen()
+numComments=10

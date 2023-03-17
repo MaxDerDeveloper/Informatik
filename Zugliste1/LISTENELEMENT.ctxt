@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=LISTENELEMENT
+comment1.params=inhaltE
+comment1.target=LISTENELEMENT\ einfuegen(DATEN)
+comment2.params=
+comment2.target=void\ datenAusgeben()
+comment3.params=
+comment3.target=int\ anzahlKnoten()
+comment4.params=
+comment4.target=DATEN\ inhaltGeben()
+comment5.params=
+comment5.target=LISTENELEMENT\ naechsterGeben()
+comment6.params=
+comment6.target=DATEN\ entfernen()
+comment7.params=
+comment7.target=int\ anzahlPersonen()
+numComments=8
