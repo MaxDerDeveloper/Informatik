@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=maxAnzahlKnoten
+comment0.target=GRAPH_MATRIX(int)
+comment1.target=void\ knotenAusgeben()
+comment2.target=void\ matrixAusgeben()
+comment3.params=start\ ziel\ bewertung
+comment3.target=void\ kanteHinzufuegen(int,\ int,\ int)
+comment3.text=\nHinzufuegen\ und\ Loeschen\ von\ Knoten\ bzw.\ Kanten\n\n
+comment4.params=start\ ziel
+comment4.target=void\ kanteLoeschen(int,\ int)
+comment5.params=knotenIndex
+comment5.target=void\ knotenLoeschen(int)
+numComments=6

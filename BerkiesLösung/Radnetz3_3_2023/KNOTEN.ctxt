@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=KNOTEN
+comment0.text=\r\n\ Diese\ Klasse\ stellt\ die\ Knoten\ eines\ Graphen\ dar.\r\n\ Jedes\ Objekt\ dieser\ Klasse\ enth\u00E4lt\ genau\ ein\ Datenelement.\r\n\ \r\n
+comment1.params=datenE
+comment1.target=KNOTEN(DATENELEMENT)
+comment2.params=
+comment2.target=DATENELEMENT\ datenGeben()
+comment3.params=markierungE
+comment3.target=void\ markierungSetzen(boolean)
+comment4.params=
+comment4.target=boolean\ markierungGeben()
+numComments=5

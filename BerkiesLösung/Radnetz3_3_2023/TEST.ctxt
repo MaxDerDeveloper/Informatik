@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=TEST
+comment0.text=\r\n\ Diese\ Klasse\ gibt\ das\ konkrete\ Radnetz\ als\ Testbeispiel\ an.\r\n
+comment1.params=
+comment1.target=TEST()
+comment2.params=
+comment2.target=void\ ausgeben()
+comment3.params=startKnoten
+comment3.target=void\ tiefenSuche(int)
+numComments=4

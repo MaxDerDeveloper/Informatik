@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=ortsname\ uebernachtungsplaetze\ sehenswuerdigkeiten
+comment0.target=DATENELEMENT(String,\ int,\ String)
+comment1.target=void\ ausgeben()
+numComments=2

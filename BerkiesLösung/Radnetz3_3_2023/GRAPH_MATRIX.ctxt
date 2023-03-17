@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=GRAPH_MATRIX
+comment0.text=\r\n\ Beispiel\ f\u00FCr\ einen\ gerichteten,\ bewerteten\ Graphen,\ der\ mit\ Hilfe\ der\r\n\ Adjazenzmatrix\ implementiert\ wird.\r\n\ Der\ Anwendungszusammenhang\ ist\ ein\ Wegenetz\ f\u00FCr\ Radfahrer.\ \r\n\ Die\ Richtung\ einer\ Kante\ gibt\ die\ Richtung\ des\ Radweges\ an\ \r\n\ und\ ihre\ Bewertung\ steht\ f\u00FCr\ die\ durchschnittlich\ benoetigte\ Zeit.\r\n\ \r\n
+comment1.params=maxAnzahlKnoten
+comment1.target=GRAPH_MATRIX(int)
+comment2.params=
+comment2.target=void\ knotenAusgeben()
+comment3.params=
+comment3.target=void\ matrixAusgeben()
+comment4.params=start\ ziel\ bewertung
+comment4.target=void\ kanteHinzufuegen(int,\ int,\ int)
+comment4.text=\r\n\ Hinzufuegen\ und\ Loeschen\ von\ Knoten\ bzw.\ Kanten\r\n
+comment5.params=start\ ziel
+comment5.target=void\ kanteLoeschen(int,\ int)
+comment6.params=inhalt
+comment6.target=int\ knotenHinzufuegen(DATENELEMENT)
+comment7.params=knotenIndex
+comment7.target=void\ knotenLoeschen(int)
+comment8.params=startKnoten
+comment8.target=void\ tiefensucheStarten(int)
+comment9.params=knotenNr
+comment9.target=void\ tiefensucheDurchfuehren(int)
+numComments=10
